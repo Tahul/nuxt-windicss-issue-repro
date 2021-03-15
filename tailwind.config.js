@@ -1,3 +1,3 @@
 module.exports = {
-  presets: []
+  presets: [require("./plugins/nuxt-ui/presets")]
 };
